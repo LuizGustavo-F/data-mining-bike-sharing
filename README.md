@@ -53,6 +53,7 @@ A organização de pastas segue o padrão de Ciência de Dados para reprodutibil
 **Machine Learning:** Scikit-Learn (Linear Regression, Random Forest,
 GridSearchCV)\
 **IDE:** VS Code
+````
 
 ------------------------------------------------------------------------
 
