@@ -131,6 +131,4 @@ Navegue até a pasta `notebooks/` e abra no Jupyter ou VS Code.
 
 # 👤 Autor
 
-Desenvolvido por **Seu Nome**\
-**LinkedIn:** Seu Link Aqui\
-**Email:** Seu Email Aqui
+Desenvolvido por **Luiz G. F Carvalho**\
