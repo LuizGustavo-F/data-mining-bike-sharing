@@ -44,7 +44,7 @@ A organização de pastas segue o padrão de Ciência de Dados para reprodutibil
 │   └── 02_modeling.ipynb  # Treinamento, Tuning e Avaliação dos Modelos
 ├── README.md              # Documentação do projeto
 └── requirements.txt       # Dependências do projeto
-
+````
 # 🛠 Tecnologias Utilizadas
 
 **Linguagem:** Python\
@@ -53,7 +53,6 @@ A organização de pastas segue o padrão de Ciência de Dados para reprodutibil
 **Machine Learning:** Scikit-Learn (Linear Regression, Random Forest,
 GridSearchCV)\
 **IDE:** VS Code
-````
 
 ------------------------------------------------------------------------
 
@@ -131,4 +130,4 @@ Navegue até a pasta `notebooks/` e abra no Jupyter ou VS Code.
 
 # 👤 Autor
 
-Desenvolvido por **Luiz G. F Carvalho**\
+Desenvolvido por **Luiz G. F Carvalho**
