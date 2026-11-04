@@ -1,4 +1,4 @@
-# 🚲 Previsão de Demanda - Bike Sharing Dataset
+# Previsão de Demanda - Bike Sharing Dataset
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
 ![Data Science](https://img.shields.io/badge/Status-Concluído-success)
@@ -8,7 +8,7 @@ Este projeto de Data Mining tem como objetivo prever a quantidade diária de alu
 
 ---
 
-## 📋 Índice
+## Índice
 - [Visão Geral](#-visão-geral)
 - [Estrutura do Projeto](#-estrutura-do-projeto)
 - [Tecnologias Utilizadas](#-tecnologias-utilizadas)
@@ -19,7 +19,7 @@ Este projeto de Data Mining tem como objetivo prever a quantidade diária de alu
 
 ---
 
-## 📖 Visão Geral
+## Visão Geral
 
 O problema consiste em uma tarefa de **Regressão**. Utilizando o *Bike Sharing Dataset* (UCI Machine Learning Repository), buscamos prever a variável `cnt` (contagem total de bicicletas alugadas) utilizando variáveis como temperatura, humidade, velocidade do vento e dias da semana.
 
@@ -30,7 +30,7 @@ O problema consiste em uma tarefa de **Regressão**. Utilizando o *Bike Sharing 
 
 ---
 
-## 📂 Estrutura do Projeto
+## Estrutura do Projeto
 
 A organização de pastas segue o padrão de Ciência de Dados para reprodutibilidade:
 
@@ -45,7 +45,7 @@ A organização de pastas segue o padrão de Ciência de Dados para reprodutibil
 ├── README.md              # Documentação do projeto
 └── requirements.txt       # Dependências do projeto
 ````
-# 🛠 Tecnologias Utilizadas
+# Tecnologias Utilizadas
 
 **Linguagem:** Python\
 **Manipulação de Dados:** Pandas, NumPy\
@@ -56,7 +56,7 @@ GridSearchCV)\
 
 ------------------------------------------------------------------------
 
-# 🔍 Análise Exploratória (Insights)
+# Análise Exploratória (Insights)
 
 Durante a EDA, identificamos fortes correlações que guiaram a seleção de
 variáveis.
@@ -76,7 +76,7 @@ melhor.
 
 ------------------------------------------------------------------------
 
-# 📊 Modelagem e Resultados
+# Modelagem e Resultados
 
 Foram treinados dois modelos para fins de comparação.\
 O dataset foi dividido em 70% treino e 30% teste.
@@ -98,7 +98,7 @@ desempenho em capturar padrões sazonais complexos.
 
 ------------------------------------------------------------------------
 
-# 📈 Visualização das Previsões
+# Visualização das Previsões
 
 O gráfico (não incluído aqui) mostra como o **Random Forest (verde)**
 segue mais fielmente os **dados reais (preto)** do que a **Regressão
@@ -106,7 +106,7 @@ Linear (azul)** em uma amostra de 50 dias.
 
 ------------------------------------------------------------------------
 
-# 🚀 Como Executar
+# Como Executar
 
 Para rodar este projeto localmente:
 
@@ -128,6 +128,6 @@ Navegue até a pasta `notebooks/` e abra no Jupyter ou VS Code.
 
 ------------------------------------------------------------------------
 
-# 👤 Autor
+# Autor
 
 Desenvolvido por **Luiz G. F Carvalho**
