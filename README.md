@@ -1,8 +1,6 @@
 # Previsão de Demanda - Bike Sharing Dataset
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
-![Data Science](https://img.shields.io/badge/Status-Concluído-success)
-![License](https://img.shields.io/badge/License-MIT-green)
 
 Este projeto de Data Mining tem como objetivo prever a quantidade diária de aluguéis de bicicletas com base em condições ambientais e sazonais. O modelo final obteve uma precisão (R²) de **88%**, superando a baseline linear.
 
